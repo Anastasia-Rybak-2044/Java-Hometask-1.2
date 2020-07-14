@@ -7,7 +7,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* Bug Issue 1 (https://github.com/Anastasia-Rybak-2044/Java-Hometask-1.2/issues/1)
+* Bug Issue 1 (https://github.com/Anastasia-Rybak-2044/Java-Hometask-1.2/issues/2)
 
 ## Описание процесса тестирования
 
